@@ -1,0 +1,81 @@
+students: 20
+
+name: s1
+numClass: 3
+classList: MATRIX_THEORY, CIRCUIT, CONTROL_SYSTEMS, 
+
+name: s2
+numClass: 2
+classList: VLSI, MATRIX_THEORY, 
+
+name: s3
+numClass: 5
+classList: CONTROL_SYSTEMS, CALCULUS, DS, MATRIX_THEORY, CIRCUIT, 
+
+name: s4
+numClass: 4
+classList: VLSI, CIRCUIT, CALCULUS, DS, 
+
+name: s5
+numClass: 1
+classList: MATRIX_THEORY, 
+
+name: s6
+numClass: 2
+classList: VLSI, MATRIX_THEORY, 
+
+name: s7
+numClass: 4
+classList: CONTROL_SYSTEMS, CALCULUS, DS, MATRIX_THEORY, 
+
+name: s8
+numClass: 3
+classList: VLSI, CALCULUS, DS, 
+
+name: s9
+numClass: 3
+classList: MATRIX_THEORY, CIRCUIT, CALCULUS, 
+
+name: s10
+numClass: 2
+classList:  VLSI, MATRIX_THEORY, 
+
+name: s11
+numClass: 1
+classList: CONTROL_SYSTEMS, 
+
+name: s12
+numClass: 1
+classList:  VLSI, 
+
+name: s13
+numClass: 2
+classList: MATRIX_THEORY, CIRCUIT, 
+
+name: s14
+numClass: 4
+classList: VLSI, MATRIX_THEORY, CALCULUS, DS, 
+
+name: s15
+numClass: 5
+classList: CONTROL_SYSTEMS, CALCULUS, DS, MATRIX_THEORY, VLSI, 
+
+name: s16
+numClass: 3
+classList: VLSI, CIRCUIT, CALCULUS, 
+
+name: s17
+numClass: 2
+classList: MATRIX_THEORY, CALCULUS, 
+
+name: s18
+numClass: 2
+classList: VLSI, MATRIX_THEORY, 
+
+name: s19
+numClass: 1
+classList: CONTROL_SYSTEMS, 
+
+name: s20
+numClass: 3
+classList: VLSI, CIRCUIT, CALCULUS, 

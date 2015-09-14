@@ -1,0 +1,101 @@
+students: 25
+
+name: Amy
+numClass: 1
+classList: ELECTRONICS, 
+
+name: Ben
+numClass: 1
+classList: DS, 
+
+name: Cindy
+numClass: 3
+classList: CALCULUS, ELECTRONICS, DS, 
+
+name: David
+numClass: 1
+classList: CALCULUS, 
+
+name: Emma
+numClass: 1
+classList: ELECTRONICS, 
+
+name: Frank
+numClass: 1
+classList: DS, 
+
+name: Gary
+numClass: 1
+classList: DS, 
+
+name: Hary
+numClass: 2
+classList: DS, OOP, 
+
+name: Iris
+numClass: 1
+classList: OOP, 
+
+name: Jay
+numClass: 1
+classList: OOP, 
+
+name: Kenny
+numClass: 3
+classList: ELECTRONICS, DS, OOP, 
+
+name: Leo
+numClass: 1
+classList: DM, 
+
+name: Mary
+numClass: 2
+classList: DS, DM, 
+
+name: Nichol
+numClass: 1
+classList: DM, 
+
+name: Oliver 	
+numClass: 1
+classList: DM, 
+
+name: Patty
+numClass: 1
+classList: DS, 
+
+name: Rebecca
+numClass: 1
+classList: DS, 
+
+name: Susan
+numClass: 2
+classList: ELECTRONICS, DS, 
+
+name: Teresa
+numClass: 1
+classList: DS, 
+
+name: Vivian
+numClass: 1
+classList: ELECTRONICS, 
+
+name: Wade
+numClass: 2
+classList: ELECTRONICS, OOP, 
+
+name: Yvonne
+numClass: 1
+classList: OOP,
+
+name: Zoe
+numClass: 1
+classList: OOP, 
+
+name: Zora
+numClass: 1
+classList: DM, 
+
+name: Sherry
+numClass: 1
+classList: DM, 

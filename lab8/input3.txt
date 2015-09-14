@@ -1,0 +1,61 @@
+students: 15
+
+name: 1001
+numClass: 3
+classList: ENGLISH, JAPANESE, FRENCH, 
+
+name: 1002
+numClass: 2
+classList: FRENCH, GERMAN, 
+
+name: 1003
+numClass: 3
+classList: ENGLISH, FRENCH, GERMAN, 
+
+name: 1004
+numClass: 2
+classList: JAPANESE, GERMAN, 
+
+name: 1005
+numClass: 1
+classList: FRENCH, 
+
+name: 1006
+numClass: 2
+classList: ENGLISH, JAPANESE, 
+
+name: 1007
+numClass: 1
+classList: GERMAN, 
+
+name: 1008
+numClass: 3
+classList: FRENCH, GERMAN, SPANISH, 
+
+name: 1009
+numClass: 3
+classList: GERMAN, SPANISH, ENGLISH, 
+
+name: 1010
+numClass: 2
+classList: ENGLISH, JAPANESE, 
+
+name: 1011
+numClass: 1
+classList: GERMAN, 
+
+name: 1012
+numClass: 1
+classList: FRENCH, 
+
+name: 1013
+numClass: 2
+classList: JAPANESE, GERMAN, 
+
+name: 1014
+numClass: 3
+classList: FRENCH, GERMAN, SPANISH, 
+
+name: 1015
+numClass: 2
+classList: ENGLISH, JAPANESE, 
